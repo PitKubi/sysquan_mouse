@@ -1,0 +1,28 @@
+# Large data exports — must be re-fetched from the SysQuan production DB
+peptide_bucket_cache_*.csv
+peptide_bucket_cache_mouse_*.csv
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+Rplots.pdf
+
+# Editor / OS
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Editor / agent state
+.claude/
+
+# Temporary / scratch
+*.tmp
+*.bak
+/tmp_*
+
+# Build artefacts (kept in sysq_mouse_figs/, but ignore stray PDFs/PNGs at root)
+/Rplots.pdf

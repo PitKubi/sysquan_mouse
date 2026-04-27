@@ -1,0 +1,19 @@
+label,ontology,Description,p.adjust,gene_ratio_n,Count
+Up in Male,BP,NA,NA,NA,NA
+Up in Male,MF,NA,NA,NA,NA
+Up in Male,CC,NA,NA,NA,NA
+Up in Female,BP,regulation of biological quality,1.1348394980537218e-4,0.4305239179954442,189
+Up in Female,BP,regulation of localization,2.669417564457901e-4,0.33940774487471526,149
+Up in Female,BP,cell morphogenesis,0.0011348703513808806,0.22323462414578588,98
+Up in Female,BP,cell junction organization,0.001479985144800083,0.22323462414578588,98
+Up in Female,BP,postsynapse organization,0.0019353128220354911,0.11845102505694761,52
+Up in Female,MF,cytoskeletal protein binding,1.6939663262254708e-4,0.228310502283105,100
+Up in Female,MF,structural constituent of postsynapse,0.0020996605920119457,0.03424657534246575,15
+Up in Female,MF,protein domain specific binding,0.0020996605920119457,0.1735159817351598,76
+Up in Female,MF,structural constituent of synapse,0.0020996605920119457,0.0410958904109589,18
+Up in Female,MF,structural molecule activity,0.003053223224737919,0.08904109589041095,39
+Up in Female,CC,postsynapse,3.6709314491127325e-12,0.3512304250559284,157
+Up in Female,CC,neuron projection,6.798427524052902e-9,0.39149888143176736,175
+Up in Female,CC,axon,1.7619535095497852e-8,0.2639821029082774,118
+Up in Female,CC,synapse,2.2507336372281805e-8,0.4563758389261745,204
+Up in Female,CC,neuron to neuron synapse,3.179851846794075e-8,0.21700223713646533,97

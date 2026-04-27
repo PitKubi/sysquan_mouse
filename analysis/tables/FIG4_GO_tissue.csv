@@ -1,0 +1,17 @@
+label,Description,p.adjust,gene_ratio_n,Count
+Cerebrum,cell junction organization,2.50428967560325e-21,0.3680555555555556,53
+Cerebrum,synapse organization,2.50428967560325e-21,0.3263888888888889,47
+Cerebrum,postsynapse organization,5.839970410471781e-16,0.20833333333333334,30
+Cerebrum,neuron projection development,3.471129965252976e-14,0.3402777777777778,49
+BrainStem,supramolecular fiber organization,0.005063879351338448,0.20987654320987653,17
+BrainStem,actin filament organization,0.005063879351338448,0.16049382716049382,13
+BrainStem,actin filament-based process,0.005063879351338448,0.20987654320987653,17
+BrainStem,actin filament bundle assembly,0.009096583210046265,0.09876543209876543,8
+Cerebellum,RNA processing,0.004994052829648768,0.17525773195876287,34
+Cerebellum,RNA splicing,0.008988594740134363,0.10824742268041238,21
+Cerebellum,mRNA processing,0.009338450919698902,0.1134020618556701,22
+Cerebellum,mRNA metabolic process,0.023570082181045823,0.13402061855670103,26
+MockWholeBrain,synaptic signaling,4.474959683327362e-10,0.2809917355371901,34
+MockWholeBrain,chemical synaptic transmission,4.474959683327362e-10,0.2727272727272727,33
+MockWholeBrain,anterograde trans-synaptic signaling,4.474959683327362e-10,0.2727272727272727,33
+MockWholeBrain,trans-synaptic signaling,4.474959683327362e-10,0.2727272727272727,33

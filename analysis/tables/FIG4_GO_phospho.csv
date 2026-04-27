@@ -1,0 +1,13 @@
+label,Description,p.adjust,gene_ratio_n,Count
+Cerebrum,chemical synaptic transmission,2.4430274155980287e-6,0.25263157894736843,24
+Cerebrum,anterograde trans-synaptic signaling,2.4430274155980287e-6,0.25263157894736843,24
+Cerebrum,modulation of chemical synaptic transmission,2.4430274155980287e-6,0.22105263157894736,21
+Cerebrum,regulation of trans-synaptic signaling,2.4430274155980287e-6,0.22105263157894736,21
+BrainStem,cell morphogenesis,3.7498934345339988e-6,0.2916666666666667,28
+BrainStem,cell junction organization,9.298048812446872e-6,0.2604166666666667,25
+BrainStem,neuron projection development,9.298048812446872e-6,0.2916666666666667,28
+BrainStem,neuron projection morphogenesis,9.298048812446872e-6,0.22916666666666666,22
+Cerebellum,neurotransmitter transport,4.1670347797284195e-4,0.12631578947368421,12
+Cerebellum,synaptic vesicle exocytosis,4.8012899003029973e-4,0.09473684210526316,9
+Cerebellum,neurotransmitter secretion,4.8012899003029973e-4,0.10526315789473684,10
+Cerebellum,signal release from synapse,4.8012899003029973e-4,0.10526315789473684,10

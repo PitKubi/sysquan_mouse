@@ -1,0 +1,25 @@
+label,ontology,Description,p.adjust,gene_ratio_n,Count
+Up in Male,BP,generation of neurons,0.013005207783246693,0.35668789808917195,56
+Up in Male,BP,neuron differentiation,0.013005207783246693,0.3375796178343949,53
+Up in Male,BP,negative regulation of cell development,0.013005207783246693,0.08280254777070063,13
+Up in Male,BP,neurogenesis,0.013005207783246693,0.37579617834394907,59
+Up in Male,BP,cell morphogenesis involved in neuron differentiation,0.013005207783246693,0.21019108280254778,33
+Up in Male,MF,NA,NA,NA,NA
+Up in Male,CC,cell leading edge,0.020513083623082073,0.16770186335403728,27
+Up in Male,CC,presynaptic membrane,0.024385353688415257,0.13043478260869565,21
+Up in Male,CC,plasma membrane bounded cell projection,0.024385353688415257,0.4472049689440994,72
+Up in Male,CC,synapse,0.024385353688415257,0.45962732919254656,74
+Up in Male,CC,cell junction,0.03883969901192802,0.5093167701863354,82
+Up in Female,BP,positive regulation of biological process,0.019553901627833176,0.5456852791878173,215
+Up in Female,BP,positive regulation of cellular process,0.019553901627833176,0.5076142131979695,200
+Up in Female,BP,regulation of biological quality,0.019553901627833176,0.41116751269035534,162
+Up in Female,BP,positive regulation of cell projection organization,0.02614634723488832,0.1065989847715736,42
+Up in Female,BP,positive regulation of cellular component organization,0.02614634723488832,0.21065989847715735,83
+Up in Female,MF,PDZ domain binding,0.019562011116217574,0.05115089514066496,20
+Up in Female,MF,protein domain specific binding,0.019562011116217574,0.17135549872122763,67
+Up in Female,MF,cytoskeletal protein binding,0.019562011116217574,0.21227621483375958,83
+Up in Female,CC,postsynapse,2.235297398121384e-6,0.3241206030150754,129
+Up in Female,CC,neuron projection,1.0657668365383217e-4,0.36683417085427134,146
+Up in Female,CC,postsynaptic density,1.0657668365383217e-4,0.1884422110552764,75
+Up in Female,CC,neuron to neuron synapse,1.0657668365383217e-4,0.20100502512562815,80
+Up in Female,CC,asymmetric synapse,1.0657668365383217e-4,0.1934673366834171,77

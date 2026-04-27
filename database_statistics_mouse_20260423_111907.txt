@@ -1,0 +1,53 @@
+SysQuan Database Statistics
+Generated: 2026-04-23 11:19:10
+Species filter: mouse
+======================================================================
+
+PEPTIDE BUCKET CACHE
+----------------------------------------------------------------------
+Total entries: 875,935
+Unique proteins: 14,460
+Unique batches: 7
+Unique tissues: 4
+Doublets: 445,330
+With MRM transitions: 10,850
+With PRM-PASEF transitions: 2,908
+With Mouse Standards: 0
+With Synthetic Peptides: 7,540
+Proteotypic: 564,157
+Approved: 0
+
+SPECTRAL LIBRARY
+----------------------------------------------------------------------
+Total spectral library entries: 30,012,235
+Unique peptides: 358,199
+Unique proteins: 14,491
+Instruments: 1
+  - TimsTOF: 30,012,235 entries
+Unique batches: 7
+Unique tissues: 4
+
+MRM TRANSITIONS
+----------------------------------------------------------------------
+Total MRM transitions: 0
+Unique compounds: 0
+Unique batches: 0
+Unique tissues: 0
+LC Columns: 0
+
+PRM-PASEF TRANSITIONS
+----------------------------------------------------------------------
+Total PRM-PASEF transitions: 0
+Unique peptides: 0
+Unique batches: 0
+Unique tissues: 0
+
+SYNTHETIC PEPTIDE INVENTORY
+----------------------------------------------------------------------
+Total synthetic peptides: 0
+Unique peptide sequences: 0
+Unique proteins: 0
+Post-synthesis confirmed: 0
+Post-HPLC confirmed: 0
+MRM pooled: 0
+Label types: 0

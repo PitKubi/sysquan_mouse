@@ -1,0 +1,5 @@
+tissue,n_peptides,n_proteins,n_proteotypic,n_doublets,n_phospho,median_light_int,median_heavy_int
+Cerebrum,292630,12427,184727,148746,5380,12600,12400
+BrainStem,283435,12163,181484,144416,4380,12600,11500
+Cerebellum,155099,11253,97870,78251,5394,9940,9620
+MockWholeBrain,144771,10890,100076,73917,0,14400,8580

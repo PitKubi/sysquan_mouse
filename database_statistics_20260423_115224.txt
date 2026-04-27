@@ -1,0 +1,63 @@
+SysQuan Database Statistics
+Generated: 2026-04-23 11:52:24
+Species filter: all
+======================================================================
+
+PEPTIDE BUCKET CACHE
+----------------------------------------------------------------------
+Total entries: 2,148,161
+Unique proteins: 28,806
+Unique batches: 22
+Unique tissues: 11
+Doublets: 871,394
+With MRM transitions: 41,841
+With PRM-PASEF transitions: 14,632
+With Mouse Standards: 164
+With Synthetic Peptides: 29,646
+Phosphopeptides: 15,154
+Proteotypic: 1,415,513
+Approved: 77,751
+
+SPECTRAL LIBRARY
+----------------------------------------------------------------------
+Total spectral library entries: 74,884,773
+Unique peptides: 711,510
+Unique proteins: 28,934
+Instruments: 2
+  - Orbitrap: 20,167,463 entries
+  - TimsTOF: 54,717,310 entries
+Unique batches: 21
+Unique tissues: 11
+
+MRM TRANSITIONS
+----------------------------------------------------------------------
+Total MRM transitions: 43,340
+Unique compounds: 6,674
+Unique batches: 6
+Unique tissues: 5
+Phospho transitions: 0
+LC Columns: 4
+  - : 2,490 transitions
+  - Evosep EV1106 Endurance column (150 um x 15 cm, 30 SPD): 8,370 transitions
+  - IonOpticks Aurora Elite column (75 um x 15 cm, Whisper Zoom 20 SPD): 296 transitions
+  - Unspecified LC: 32,184 transitions
+
+PRM-PASEF TRANSITIONS
+----------------------------------------------------------------------
+Total PRM-PASEF transitions: 3,568
+Unique peptides: 2,236
+Unique batches: 2
+Unique tissues: 2
+Phospho transitions: 0
+
+SYNTHETIC PEPTIDE INVENTORY
+----------------------------------------------------------------------
+Total synthetic peptides: 3,000
+Unique peptide sequences: 2,947
+Unique proteins: 1,899
+Phosphopeptides: 0
+Post-synthesis confirmed: 2,555
+Post-HPLC confirmed: 679
+MRM pooled: 3,000
+Label types: 1
+  - NAT: 3,000 peptides
